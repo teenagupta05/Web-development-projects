@@ -16,8 +16,8 @@ and technologies used in web development.
   - [Online Quiz Maker](#online-quiz-maker)
 - [Technologies Used](#technologies-used)
 
-  ## Projects
-### Portfolio Website
+## Projects
+  ### Portfolio Website
 
 A personal portfolio website to showcase 
 my projects, skills, and experiences. 
@@ -27,7 +27,7 @@ Features include:
   to live demos and source code. 
 - Functional contact form.
 
-### Landing Page
+  ### Landing Page
 
 A modern, responsive landing page 
 template suitable for various types 
