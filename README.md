@@ -17,8 +17,7 @@ and technologies used in web development.
 - [Technologies Used](#technologies-used)
 
 ## Projects
-  
-  ### Portfolio Website
+    ### Portfolio Website
 
 A personal portfolio website to showcase 
 my projects, skills, and experiences. 
